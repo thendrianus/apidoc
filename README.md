@@ -67,8 +67,8 @@ http://localhost:3000/
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://reactjs.org/) - React JS
-- [Express](https://typescriptlang.org/) - TypeScript
+- [React JS](https://reactjs.org/) - React JS
+- [TypeScript](https://typescriptlang.org/) - TypeScript
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 
